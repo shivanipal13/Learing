@@ -1,0 +1,10 @@
+{
+    "name":"shivani",
+    "lastname":"Pal",
+    "Mobile":1234342343,
+    "city":"mumbai",
+    "Course":["css","js","java"],
+    "Adress":{
+        "Area":"xyz","pin":123213
+    }
+}
